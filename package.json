@@ -40,7 +40,7 @@
         "concurrently": "5.3.0",
         "postcss": "8.1.4",
         "prettier": "2.1.2",
-        "shelljs": "0.8.4",
+        "shelljs": "0.8.5",
         "upath": "2.0.0"
     }
 }
